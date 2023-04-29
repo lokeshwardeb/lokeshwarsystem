@@ -1,0 +1,35 @@
+.active{
+    background-color: rgb(69, 69, 255);
+    color: white;
+    border-radius: 25px;
+}
+.active:hover{
+    background-color: rgb(108, 108, 255);
+    color: white;
+    border-radius: 25px;
+}
+.nav-item{
+    border-radius: 25px;
+}
+.nav-item:hover{
+background-color: brown;
+color: white;
+border-radius: 25px;
+transition: all ease-in 800ms;
+
+}
+.cus-text-color{
+    color: black;
+}
+.cus-text-color:hover{
+    transition: all ease-in 600ms;
+    color: white;
+}
+.active a{
+    color: white;
+}
+svg .svg-inline--fa .fa-folder{
+    display: block;
+    margin: auto;
+    height: 35px;
+}
